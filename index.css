@@ -109,7 +109,7 @@ main {
   header {
     font-size: 16px; /* Smaller font size */
     padding: 10px; /* Less padding */
-    height: 1000px; /* Smaller height */
+    height: 100px; /* Smaller height */
   }
 
   body {
