@@ -98,3 +98,39 @@ footer a{
 main {
   padding-bottom: 100px; /* Adjust the value as needed */
 }
+
+
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  header {
+    font-size: 16px; /* Smaller font size */
+    padding: 10px; /* Less padding */
+    height: 60px; /* Smaller height */
+  }
+
+  body {
+    font-size: 14px; /* Smaller body font size */
+  }
+
+  #jobs {
+    flex-direction: column; /* Stack job items vertically on smaller screens */
+  }
+
+  #jobs img, #jobs ul {
+    margin: 10px 0; /* Adjust margins for stacked layout */
+  }
+
+  #more p, #jobs ul {
+    padding: 0 20px; /* Add some padding on the sides for better readability */
+  }
+
+  main {
+    padding-bottom: 60px; /* Adjust bottom padding for the smaller footer */
+  }
+
+  footer {
+    padding: 5px; /* Less padding in the footer */
+    font-size: 14px; /* Smaller font size for footer */
+  }
+}
