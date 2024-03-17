@@ -17,7 +17,9 @@ header {
 }
 
 body {
-  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nawpic.com%2Fmedia%2F2020%2Fblack-and-gold-nawpic-3-e1609014493912.jpg&f=1&nofb=1&ipt=777bdb2d40e6e98292e10f59126764571c6406df0d835bfe92bd7e2a083f9ed8&ipo=images');
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flavky.com%2Fimages%2Fdetailed%2F1185%2F73b7309142cbcb9e1caae4e8ff561799.jpg&f=1&nofb=1&ipt=075fd5212afa41fcfcf225a1766c78f1f9e335ceb5de534bc102cc29c9dbccc2&ipo=images');
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6;
